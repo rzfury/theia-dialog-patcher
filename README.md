@@ -4,9 +4,7 @@ This is a Powershell script that can patch and extract dialog file for Nyaruru F
 
 ## Download and Usage
 
-The Powershell script can be [downloaded here](https://raw.githubusercontent.com/rzfury/theia-dialog-patcher/main/TheiaPatcher.ps1)
-
-If it's not automatically downloaded and only show a bunch of text in your browser, right click and then choose *Save As*.
+The Powershell script can be [downloaded here](https://raw.githubusercontent.com/rzfury/theia-dialog-patcher/main/TheiaPatcher.ps1) by right-clicking on the link and then choose *Save Link As*.
 
 ### Requirements
 
