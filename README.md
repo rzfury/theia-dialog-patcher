@@ -1,4 +1,4 @@
-# Theia Patcher (a dialog patcher for Nyaruru Fishy Fight)
+# Theia Dialog Patcher (a dialog patcher for Nyaruru Fishy Fight)
 
 This is a Powershell script that can patch and extract dialog file for Nyaruru Fishy Fight.
 
