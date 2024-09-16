@@ -29,6 +29,7 @@ If an error that says `TheiaPatcher.ps1 is not digitally signed` shows up. You w
 ![](https://learn-attachment.microsoft.com/api/attachments/1e085ff6-282a-4896-92e3-a1cd7baef3eb?platform=QnA)
 
 #### Using terminal
+> You will have to do this every time you open the terminal
 1. Open a terminal application,
 2. Paste the following command, then press Enter
 ```powershell
@@ -38,7 +39,7 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
    
 ## How the patch works
 
-Since the game is not obfuscated, it is pretty easy to create a mod for this game.
+Since the game's code is not obfuscated, it is pretty easy to create a mod for this game.
 
 The patch only modify one file (`Nyaruru/js/nya/nya_achieves.js`). There's a section in the code that handle the loading of a dialog file.
 
